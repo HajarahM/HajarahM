@@ -1,6 +1,6 @@
-- 👋 Hi, I’m Hajarah, a Data Science|AI/ML junior engineer and enthusiast. I love it with a passion!!!
-- 👀 I’m interested in getting Data Analytics, Data Science, Data Engineering, AI/ML engineering jobs or projects
-- 🌱 I’m currently learning Machine Learning
+- 👋 Hi, I’m Hajarah, a Big Data Analyst, Data Science|AI/ML engineer and enthusiast. I love it with a passion!!!
+- 👀 I’m interested in getting on to Data Analytics, Data Science, Data Engineering, AI/ML engineering projects
+- 🌱 I’m currently working on multiple Machine Learning/ AI projects
 - 💞️ I’m looking to collaborate on an ML/AI projects to build on my experience
 - 📫 How to reach me: find (& message ) me on linkedIn www.linkedin.com/hajarahm
 
